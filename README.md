@@ -61,6 +61,9 @@
 * 提升关键区域识别能力
 
 👉 有效提升模型对复杂结构（如胰腺、结肠肿瘤）的分割能力 
+<img width="1600" height="798" alt="image" src="https://github.com/user-attachments/assets/dcf7757a-df04-470c-ad1a-4ef245430eb0" />
+<img width="1119" height="789" alt="image" src="https://github.com/user-attachments/assets/2a522b84-2c73-4ea2-8bb2-2543c49679e0" />
+
 
 ---
 
@@ -74,6 +77,7 @@
 * Liver（肝脏）
 * Pancreas（胰腺）
 * Colon（结肠）
+<img width="1018" height="771" alt="image" src="https://github.com/user-attachments/assets/0d044b3b-4442-4aff-ab56-d187cb774b81" />
 
 👉 针对小目标 & 复杂结构任务进行了重点优化 
 
@@ -113,6 +117,8 @@
 * RVE（体积误差）
 
 👉 在多个数据集上相比基线模型有明显提升 
+<img width="1092" height="607" alt="image" src="https://github.com/user-attachments/assets/ceb09195-3f98-4286-8f47-b8a3a9b09c62" />
+
 
 ---
 
@@ -126,6 +132,10 @@
 * 🔍 多视角查看（轴向 / 冠状 / 矢状）
 * 🎛️ 掩膜透明度调节
 * 🎨 标签与颜色自定义
+<img width="1036" height="631" alt="image" src="https://github.com/user-attachments/assets/7a883575-8a1b-4246-9c9c-4d127b6fdb88" />
+<img width="957" height="638" alt="image" src="https://github.com/user-attachments/assets/545bfbd3-d450-47f8-9c8b-830237999da8" />
+<img width="1194" height="488" alt="image" src="https://github.com/user-attachments/assets/d400af1d-e9d8-420f-8dc8-728001efc43b" />
+<img width="973" height="690" alt="image" src="https://github.com/user-attachments/assets/1a382ad9-583c-4155-ba50-41e162972b39" />
 
 👉 支持医生进行辅助诊断与分析 
 
@@ -202,20 +212,3 @@ python app.py
 ---
 
 ## ⭐️ 如果这个项目对你有帮助，欢迎 Star！
-
----
-
-## ✅ 接下来建议你做
-
-我帮你说句实话（对你提升很关键）👇
-
-👉 这个 README 已经**能打面试了，但还能再升级：**
-
-* 加几张 **分割效果图（非常重要🔥）**
-* 加一个 **模型对比图（PPT里有）**
-* 如果可以 → 上传一个 demo 视频
-
----
-
-如果你愿意，我可以帮你再做一步升级👇
-👉 帮你改成 **“面试官一看就想问你问题”的顶级GitHub项目”**（含截图+排版+亮点强化）
